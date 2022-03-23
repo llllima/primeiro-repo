@@ -1,8 +1,8 @@
 programa
 {
-	
+	cadeia nome = "Larissa"
 	funcao inicio()
 	{
-		escreva("Olá Mundo")
+		escreva("Olá ", nome)
 	}
 }
